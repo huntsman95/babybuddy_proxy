@@ -4,7 +4,7 @@ panel_icon: "mdi:baby-bottle"
 panel_title: Baby Buddy
 slug: frigate-proxy
 description: Proxy addon for Frigate
-url: "https://github.com/huntsman95/baby-buddy-proxy-hass"
+url: "https://github.com/huntsman95/babybuddy_proxy"
 startup: application
 boot: auto
 webui: "http://[HOST]:[PORT:5001]/"
