@@ -3,7 +3,7 @@ server {
 
     include /etc/nginx/includes/server_params.conf;
 
-    location /hassio/ingress/ {
+    location /hassio/ingress/6e064129_frigate-proxy/ {
         allow   172.30.32.2;
         deny    all;
 
